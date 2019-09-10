@@ -1,0 +1,11 @@
+server: 
+   address: 0.0.0.0
+   port: 8080
+   error: 
+     include-stacktrace: always
+   
+swagger: 
+   enable: true
+   
+beetl: 
+   templatesPath: templates
